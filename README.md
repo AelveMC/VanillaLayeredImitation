@@ -6,5 +6,6 @@ Bootleg Vanilla_Layered using Multi_Noise
 - Lines between dots are rivers.
   - Blue lines are frozen rivers.
   - Dashes lines are rivers between the same biome.
+  - Arrowheads indicate alternating weirdness values.
 
 ![Biome_Placements](https://github.com/AelveMC/VanillaLayeredImitation/blob/main/Vanilla_Imitation/biome_list.JPG)
